@@ -1,3 +1,5 @@
+/* vim: set ts=4, shiftwidth=4 */
+
 #include <sys/socket.h>
 #include <sys/types.h>
 #include <errno.h>
